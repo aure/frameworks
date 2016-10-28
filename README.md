@@ -6,6 +6,8 @@ This checklist can be used as a starting point to evaluate a framework's quality
 
 It was heavily influenced, inspired by, and cribbed from [The POSSIBLE Mobile Seaworthy Framework Checklist for Vendors](https://gist.github.com/POMBuilds/eb439cfa2300b080c7b75006ab69265e).  The biggest difference between this list and that one is that this focuses on things that are noticeable quickly when a potential user comes across a framework.  Hence, detailed items like code quality are left to much longer discussions (and even textbooks)!
 
+This checklist is not an all or nothing affair - if a framework satisfies 85% of the items below that is pretty good.  In some cases, the rules below need to be broken and that is fine.
+
 There are several sections to this document so you may want to skip ahead:
 
 * [README](#README)
@@ -14,6 +16,8 @@ There are several sections to this document so you may want to skip ahead:
 
 <a name="README"></a>
 ## README
+
+The README is often the very first look that a potential will be judging a framework by so it can be the start of a love-at-first-sight relationship or immediately off-putting.  
 
 ### Use Shields/Badges from [Shields.io](https://shields.io/)
 
@@ -58,9 +62,9 @@ The number of issues ideally is small, but for big projects, there can be many, 
 
 * Very actively managed Pull Requests
 
-The number of pull requests should be zero or near to zero.  A pull request is usually someone's legitimate attempt at improving the framework.  If so, it should at least be addressed with some responses if not action.  If the pull request was made by an inept person, that is also readily closeable.  The only open pull requests should be good ideas with salvageable implementations.
+The number of pull requests should be zero or near to zero.  A pull request is usually someone's legitimate attempt at improving the framework and it should at least be addressed with some responses if not action.  If the pull request was made by a misguided person, that is also readily closeable.  The only open pull requests should be good ideas with flawed but salvageable implementations.
 
-If there are open pull requests, they're a good place to check for continuous integration.  If the pull requested was tests and shown to fail, that is a good reason why it hasn't been accepted yet.
+If there are open pull requests, they're a good place to check for continuous integration.  If the pull request has tests that are shown to fail, that is a good reason why it hasn't been accepted yet.
 
 * Use of the Github Projects feature
 
