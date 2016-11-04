@@ -1,6 +1,6 @@
 # Highly Desirable Frameworks
 
-This repository is here to support updates to the following checklist and also contains materials from a companion presentation.
+This repository is here to support updates to the following checklist and also contains materials from a companion presentation a video for which now appears [on vimeo](https://vimeo.com/189991495).
 
 This checklist can be used as a starting point to evaluate a framework's quality.  It is intended to be used by potential consumers of frameworks as well as developers of frameworks who want to make sure they've covered all the basics.
 
@@ -17,7 +17,7 @@ There are several sections to this document so you may want to skip ahead:
 <a name="README"></a>
 ## README
 
-The README is often the very first look that a potential will be judging a framework by so it can be the start of a love-at-first-sight relationship or immediately off-putting.  
+The README is often the very first look that a potential will be judging a framework by so it can be the start of a love-at-first-sight relationship or immediately off-putting.
 
 ### Use Shields/Badges from [Shields.io](https://shields.io/)
 
