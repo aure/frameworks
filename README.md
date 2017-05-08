@@ -11,7 +11,7 @@ This checklist is not an all or nothing affair - if a framework satisfies 85% of
 There are several sections to this document so you may want to skip ahead:
 
 * [README](#README)
-* [Community Engagement](#Community Engagement)
+* [Community Engagement](#CommunityEngagement)
 * [Sample Projects](#SampleProjects)
 
 <a name="README"></a>
